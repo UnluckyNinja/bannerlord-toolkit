@@ -1,24 +1,4 @@
-# bannerlord-toolkit
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Bannerlord Toolkit
+![Github Page](https://github.com/UnluckyNinja/bannerlord-toolkit/workflows/Github%20Page/badge.svg)  
+Just some personal tools  
+[https://unlucky.ninja/bannerlord-toolkit/]  
