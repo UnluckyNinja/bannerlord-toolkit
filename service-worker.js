@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bannerlord-toolkit/precache-manifest.e64290d99d3086fccdab7a3d91859680.js"
+  "/bannerlord-toolkit/precache-manifest.b3aaf8d0f2040822d9186f0d97e73c3b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bannerlord-toolkit"});
