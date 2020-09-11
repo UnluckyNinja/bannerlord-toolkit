@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bannerlord-toolkit/apple-touch-icon.png"
   },
   {
-    "revision": "b53d805a35c4b388a655",
+    "revision": "3055d5e02a3c50dd2c50",
     "url": "/bannerlord-toolkit/css/app.b9d1ac3a.css"
   },
   {
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bannerlord-toolkit/favicon-32x32.png"
   },
   {
-    "revision": "cda1aa7585bb136dd5ef1c694eda02f8",
+    "revision": "aaacbb182ed79acde38af99294161714",
     "url": "/bannerlord-toolkit/index.html"
   },
   {
-    "revision": "b53d805a35c4b388a655",
-    "url": "/bannerlord-toolkit/js/app.529cadf3.js"
+    "revision": "3055d5e02a3c50dd2c50",
+    "url": "/bannerlord-toolkit/js/app.6e6072cd.js"
   },
   {
     "revision": "a3cb8849b3a506d3971a",
